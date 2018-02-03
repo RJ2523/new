@@ -1,0 +1,10 @@
+
+More cake!
+
+#Make sure you're in master (How?)
+
+    gedit banana_cake.txt
+    git add *cake.txt
+    git commit -m "Add banana cake"
+
+
